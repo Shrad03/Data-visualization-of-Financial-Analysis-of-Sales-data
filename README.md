@@ -4,3 +4,4 @@ The data visualization was performed on power BI. Financial Analysis of sales da
 
 ![image](https://www.growthaspire.com/wp-content/uploads/2018/11/Sales-data-analysis-for-sales-managers.png)
 
+
